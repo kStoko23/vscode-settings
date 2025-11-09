@@ -1,0 +1,52 @@
+{
+  "workbench.startupEditor": "none",
+  "github.copilot.nextEditSuggestions.enabled": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.iconTheme": "icons",
+  "gitlens.ai.model": "vscode",
+  "gitlens.ai.vscode.model": "copilot:gpt-4.1",
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorStyle": "block",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 15,
+  "editor.lineHeight": 25,
+  "editor.renderWhitespace": "all",
+  "editor.formatOnSave": true,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "terminal.integrated.fontFamily": "JetBrains Mono",
+  "terminal.integrated.fontSize": 13,
+  "editor.minimap.enabled": false,
+  "breadcrumbs.enabled": false,
+  "editor.smoothScrolling": true,
+
+  "editor.hover.delay": 700,
+  "editor.hover.enabled": true,
+  "editor.matchBrackets": "never",
+  "workbench.tips.enabled": false,
+  "editor.colorDecorators": true,
+  "editor.lightbulb.enabled": "off",
+  "editor.overviewRulerBorder": false,
+  "editor.gotoLocation.multipleReferences": "goto",
+  "editor.gotoLocation.multipleDefinitions": "goto",
+  "editor.gotoLocation.multipleDeclarations": "goto",
+  "editor.gotoLocation.multipleImplementations": "goto",
+  "editor.gotoLocation.multipleTypeDefinitions": "goto",
+
+  "vscode_custom_css.imports": [
+    "file:///C:/Users/Kuba/vscode.css",
+    "file:///C:/Users/Kuba/vscode-script.js"
+  ],
+  "editor.stickyScroll.enabled": false,
+
+  "workbench.colorCustomizations": {
+    "editorCursor.foreground": "#c678dd",
+    "terminalCursor.foreground": "#c678dd"
+  },
+  "workbench.layoutControl.enabled": false,
+  "workbench.navigationControl.enabled": false,
+  "chat.commandCenter.enabled": false,
+  "workbench.sideBar.location": "right"
+}
